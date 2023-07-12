@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">TicTacToe</string>
+    <string name="user">user</string>
+    <string name="password">1234</string>
+    <string name="heading">Welcome</string>
+    <string name="status">Lets Play</string>
+</resources>

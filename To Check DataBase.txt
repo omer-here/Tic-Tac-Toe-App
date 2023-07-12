@@ -1,0 +1,5 @@
+
+In Project Pre-requsite: Install Simple SqLite Browser
+
+1. navigate to Device file Explorer
+2. data>data>com.example"">db 
